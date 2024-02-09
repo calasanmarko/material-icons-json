@@ -1,0 +1,12 @@
+{
+  "name": "material-icons-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/calasanmarko/material-icons-json",
+  "author": "Marko Calasan <calasanmarko@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@material-design-icons/svg": "^0.14.13"
+  }
+}
